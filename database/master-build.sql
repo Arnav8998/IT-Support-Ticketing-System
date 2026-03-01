@@ -6,7 +6,7 @@ JOIN sys.schemas s ON s.schema_id = t.schema_id
 ORDER BY s.name, t.name;
 /*
 =========================================================
- MASTER BUILD SCRIPT (ONE-PASTE) — SQL Server
+ MASTER BUILD SCRIPT (ONE-PASTE) â€” SQL Server
  IT Support Ticketing & Escalation System (MVP)
 =========================================================
 
