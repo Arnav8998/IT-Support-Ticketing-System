@@ -1,1 +1,16 @@
-
+{
+  "name": "it-support-ticketing-api",
+  "version": "1.0.0",
+  "description": "Express + MSSQL API for IT Support Ticketing & Escalation System",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mssql": "^11.0.1"
+  }
+}
